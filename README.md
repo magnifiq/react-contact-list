@@ -1,5 +1,5 @@
 # Purpose and details
--- The purpose of the project was to create an app with contact cards where a user can se info about his contacts. 
+-- The purpose of the project was to create an app with contact cards where a user can see information about his/her/their contacts. 
 
 -- React practice
 
