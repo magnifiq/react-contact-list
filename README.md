@@ -1,5 +1,9 @@
-#The purpose of the project was to create an app with contact cards where a user can se info about his contacts.React practice
-The last version of the app was created 12/17/2022. 
+# Purpose and details
+-- The purpose of the project was to create an app with contact cards where a user can se info about his contacts. 
+
+-- React practice
+
+-- The last version of the app was created in 12/17/2022. 
 
 # Getting Started with Create React App
 
