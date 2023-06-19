@@ -1,3 +1,6 @@
+#The purpose of the project was to create an app with contact cards where a user can se info about his contacts.React practice
+The last version of the app was created 12/17/2022. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
